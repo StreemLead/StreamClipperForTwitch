@@ -1,0 +1,284 @@
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\Twitch CC.exe.config
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\Twitch CC.exe
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\Twitch CC.pdb
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Twitch CC.csprojAssemblyReference.cache
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\MainWindow.g.cs
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Views\StreamerSeachView.g.cs
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\App.g.cs
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Twitch CC_MarkupCompile.cache
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Twitch CC_MarkupCompile.lref
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\MainWindow.baml
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Views\StreamerSeachView.baml
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Twitch CC.g.resources
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Twitch_CC.Properties.Resources.resources
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Twitch CC.csproj.GenerateResource.cache
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Twitch CC.csproj.CoreCompileInputs.cache
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Twitch CC.exe
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Twitch CC.pdb
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\Newtonsoft.Json.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\Newtonsoft.Json.xml
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Twitch CC.csproj.CopyComplete
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\obj\Debug\Twitch CC.exe.config
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\netstandard.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.AppContext.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Collections.Concurrent.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Collections.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Collections.NonGeneric.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Collections.Specialized.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.ComponentModel.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Console.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Data.Common.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Diagnostics.Debug.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Diagnostics.Process.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Diagnostics.Tools.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Drawing.Primitives.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Dynamic.Runtime.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Globalization.Calendars.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Globalization.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Globalization.Extensions.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.IO.Compression.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.IO.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.IO.FileSystem.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.IO.Pipes.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Linq.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Linq.Expressions.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Linq.Parallel.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Linq.Queryable.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Net.Http.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Net.NameResolution.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Net.NetworkInformation.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Net.Ping.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Net.Primitives.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Net.Requests.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Net.Security.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Net.Sockets.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Net.WebSockets.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.ObjectModel.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Reflection.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Reflection.Extensions.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Reflection.Primitives.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Resources.Reader.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Resources.ResourceManager.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Resources.Writer.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Runtime.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Runtime.Extensions.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Runtime.Handles.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Runtime.InteropServices.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Runtime.Numerics.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Security.Claims.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Security.Principal.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Security.SecureString.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Text.Encoding.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Text.RegularExpressions.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Threading.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Threading.Overlapped.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Threading.Tasks.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Threading.Thread.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Threading.ThreadPool.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Threading.Timer.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.ValueTuple.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Xml.XDocument.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Xml.XmlDocument.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Xml.XPath.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Api.Core.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Api.Core.Enums.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Api.Core.Interfaces.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Api.Core.Models.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Api.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Api.Helix.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Api.Helix.Models.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Api.V5.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Api.V5.Models.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Client.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Client.Enums.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Client.Models.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.Communication.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\TwitchLib.PubSub.dll
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Daten\Business\Freddelus.io\Dev\Twitch CC\Twitch CC\bin\Debug\Newtonsoft.Json.pdb
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch CC.exe
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch CC.pdb
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Twitch CC.exe.config
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Twitch CC.exe.manifest
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Twitch CC.application
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Twitch CC.exe
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Twitch CC.pdb
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\netstandard.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.AppContext.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Collections.Concurrent.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Collections.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Collections.NonGeneric.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Collections.Specialized.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.ComponentModel.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Console.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Data.Common.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Diagnostics.Debug.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Diagnostics.Process.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Diagnostics.Tools.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Drawing.Primitives.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Dynamic.Runtime.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Globalization.Calendars.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Globalization.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Globalization.Extensions.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.IO.Compression.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.IO.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.IO.FileSystem.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.IO.Pipes.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Linq.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Linq.Expressions.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Linq.Parallel.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Linq.Queryable.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Net.Http.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Net.NameResolution.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Net.NetworkInformation.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Net.Ping.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Net.Primitives.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Net.Requests.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Net.Security.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Net.Sockets.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Net.WebSockets.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.ObjectModel.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Reflection.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Reflection.Extensions.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Reflection.Primitives.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Resources.Reader.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Resources.ResourceManager.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Resources.Writer.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Runtime.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Runtime.Extensions.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Runtime.Handles.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Runtime.InteropServices.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Runtime.Numerics.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Security.Claims.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Security.Principal.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Security.SecureString.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Text.Encoding.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Text.RegularExpressions.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Threading.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Threading.Overlapped.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Threading.Tasks.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Threading.Thread.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Threading.ThreadPool.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Threading.Timer.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.ValueTuple.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Xml.XDocument.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Xml.XmlDocument.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Xml.XPath.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\MaterialDesignColors.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Microsoft.WindowsAPICodePack.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Newtonsoft.Json.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Api.Core.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Api.Core.Enums.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Api.Core.Interfaces.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Api.Core.Models.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Api.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Api.Helix.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Api.Helix.Models.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Api.V5.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Api.V5.Models.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Client.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Client.Enums.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Client.Models.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.Communication.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\TwitchLib.PubSub.dll
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\MaterialDesignColors.pdb
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Microsoft.WindowsAPICodePack.xml
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\bin\Debug\Newtonsoft.Json.xml
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch CC.csprojAssemblyReference.cache
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch CC.exe.config
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\MainWindow.g.cs
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Views\ClipView.g.cs
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Views\FavoritView.g.cs
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\App.g.cs
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch CC_MarkupCompile.cache
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch CC_MarkupCompile.lref
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\App.baml
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\MainWindow.baml
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Views\ClipView.baml
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Views\FavoritView.baml
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch CC.g.resources
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch_CC.Properties.Resources.resources
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch CC.csproj.GenerateResource.cache
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch CC.csproj.CoreCompileInputs.cache
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch CC.exe.manifest
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch CC.application
+F:\Daten\Business\streemlead.com\Software Development\Twitch CC\repository\Twitch CC\obj\Debug\Twitch CC.csproj.CopyComplete

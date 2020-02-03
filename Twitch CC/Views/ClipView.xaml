@@ -1,0 +1,160 @@
+﻿<Page x:Class="Twitch_CC.Views.ClipView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Twitch_CC.Views"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Background="#363636"
+      Title="ClipView">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+
+        <Grid Grid.Column="0"
+              Grid.Row="0"
+              Margin="30,10,30,10">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+        </Grid>
+
+        <DockPanel Grid.Column="0"
+                   Grid.Row="0">
+            <Button Command="{Binding navigateBackCommandRelay}"
+                    Style="{DynamicResource MaterialDesignToolButton}"
+                    Height="50"
+                    Width="50"
+                    Margin="20,0,0,0">
+                <materialDesign:PackIcon Kind="ArrowBack"
+                                         Height="34"
+                                         Width="34" />
+            </Button>
+            <Button Command="{Binding selectDownloadFolderCommandRelay}"
+                    Margin="20,0,0,0">
+                Set Download Folder
+            </Button>
+            <StackPanel HorizontalAlignment="Right"
+                        DockPanel.Dock="Right"
+                        Margin="0,5,20,0">
+                <TextBlock Text="Action for All" 
+                           FontSize="14"
+                           Foreground="#FFE4DADA"
+                           Margin="0,0,0,5"/>
+                <DockPanel>
+                    <Button Command="{Binding downloadSelectedClipsCommandRelay}" 
+                            Style="{DynamicResource MaterialDesignFloatingActionDarkButton}"
+                            Width="34"
+                            Height="34"
+                            DockPanel.Dock="Right">
+                        <materialDesign:PackIcon Kind="Download" />
+                    </Button>
+                    <CheckBox Style="{DynamicResource MaterialDesignSwitchToggleButton}"
+                              DockPanel.Dock="Left"
+                              Margin="0,0,10,0"
+                              Command="{Binding selectAllClipsCommandRelay}">
+                    </CheckBox>
+                </DockPanel>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                <ComboBox Width="80"
+                          Margin="0,0,15,0"
+                          ItemsSource="{Binding periods}"
+                          SelectedValue="{Binding searchQuery.Period}"
+                          SelectedItem="{Binding searchQuery.Period, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"
+                          Foreground="White">
+                </ComboBox>
+                <Button Command="{Binding refreshClipsCommandRelay}"
+                        Style="{DynamicResource MaterialDesignFloatingActionDarkButton}"
+                        Width="34"
+                        Height="34">
+                    <materialDesign:PackIcon Kind="Refresh" />
+                </Button>
+            </StackPanel>
+        </DockPanel>
+        
+        <ScrollViewer Grid.Column="0" Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <TextBlock Text="{Binding clipsTitle.Title}" 
+                           Margin="20,0,0,0" 
+                           FontSize="22" 
+                           FontWeight="Medium"
+                           Foreground="#FFE4DADA" />
+                <StackPanel Margin="20 0" HorizontalAlignment="Center">
+                    <ItemsControl x:Name="lvStreamerClips" ItemsSource="{Binding lClips}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Border Margin="10" Width="200" Height="260">
+                                    <StackPanel>
+                                        <DockPanel Margin="0,0,0,10">
+                                            <materialDesign:PackIcon Kind="Pen"
+                                                                     Foreground="White"
+                                                                     VerticalAlignment="Center"
+                                                                     Margin="0,0,5,0" />
+                                            <TextBox Text="{Binding Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                                                    FontWeight="Bold" 
+                                                    Foreground="White"
+                                                    HorizontalAlignment="Center" />
+                                        </DockPanel>
+                                        <Button Command="{Binding ElementName=lvStreamerClips, Path=DataContext.watchCommandRelay}" 
+                                                CommandParameter="{Binding}"
+                                                BorderThickness="0">
+                                            <Button.Style>
+                                                <Style TargetType="Button">
+                                                    <Setter Property="RenderTransformOrigin" Value="0.5, 0.5"/>
+                                                    <Style.Triggers>
+                                                        <Trigger Property="IsMouseOver" Value="True">
+                                                            <Setter Property="RenderTransform">
+                                                                <Setter.Value>
+                                                                    <ScaleTransform ScaleX="1.1" ScaleY="1.1" />
+                                                                </Setter.Value>
+                                                            </Setter>
+                                                        </Trigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </Button.Style>
+                                            <Image Source="{Binding ThumbnailBitmap}" HorizontalAlignment="Center" />
+                                        </Button>
+                                        <DockPanel Margin="0,10,0,0">
+                                            <Button Command="{Binding ElementName=lvStreamerClips, Path=DataContext.downloadCommandRelay}" 
+                                                    CommandParameter="{Binding}"
+                                                    Style="{DynamicResource MaterialDesignFloatingActionDarkButton}"
+                                                    Width="34"
+                                                    Height="34"
+                                                    DockPanel.Dock="Right"
+                                                    HorizontalAlignment="Right">
+                                                <materialDesign:PackIcon
+                                                  Kind="Download" />
+                                            </Button>
+                                            <CheckBox Style="{DynamicResource MaterialDesignSwitchToggleButton}"
+                                                      IsChecked="{Binding Selected}"
+                                                      DockPanel.Dock="Left"
+                                                      HorizontalAlignment="Right"
+                                                      Margin="0,0,10,0">
+                                            </CheckBox>
+                                        </DockPanel>
+                                    </StackPanel>
+                                </Border>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <WrapPanel/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                    </ItemsControl>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
